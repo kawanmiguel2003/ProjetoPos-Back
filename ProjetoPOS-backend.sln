@@ -1,0 +1,68 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 - API", "01 - API", "{EE7C3A47-41FE-472E-9908-9388AD1BE8D0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 - Domain", "02 - Domain", "{B80AAA27-6C3C-414D-9540-6D99491533BE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03 - Infra", "03 - Infra", "{2FB89A2E-18CC-4E2F-8082-612FA8BD90EC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.01 - Data", "03.01 - Data", "{CD809526-21DC-4386-94B6-CEAB9C2A512C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.02 - CrossCutting", "03.02 - CrossCutting", "{C08D3392-41DB-4076-A341-82817DFA7A0F}"
+	ProjectSection(SolutionItems) = preProject
+		Notifiable.cs = Notifiable.cs
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoPos.Domain", "src\ProjetoPos.Domain\ProjetoPos.Domain.csproj", "{EB8AC5DA-AC70-45D7-BFA2-442E2A7EDCEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoPos.Infra.Data", "src\ProjetoPos.Infra.Data\ProjetoPos.Infra.Data.csproj", "{8D223CF3-6ED6-4FB3-B0F0-DA5524EFB97F}"
+	ProjectSection(ProjectDependencies) = postProject
+		{EB8AC5DA-AC70-45D7-BFA2-442E2A7EDCEB} = {EB8AC5DA-AC70-45D7-BFA2-442E2A7EDCEB}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoPos.WebApi", "src\ProjetoPos.WebApi\ProjetoPos.WebApi.csproj", "{AE5B492C-FA3E-4FD7-A82F-93E7D8C1C57C}"
+	ProjectSection(ProjectDependencies) = postProject
+		{8D223CF3-6ED6-4FB3-B0F0-DA5524EFB97F} = {8D223CF3-6ED6-4FB3-B0F0-DA5524EFB97F}
+		{EB8AC5DA-AC70-45D7-BFA2-442E2A7EDCEB} = {EB8AC5DA-AC70-45D7-BFA2-442E2A7EDCEB}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoPos.Infra.CrossCutting.NotificationPattern", "src\ProjetoPos.Infra.CrossCutting.NotificationPattern.csproj\ProjetoPos.Infra.CrossCutting.NotificationPattern.csproj", "{F1C0D719-230D-4544-8361-D90482572190}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB8AC5DA-AC70-45D7-BFA2-442E2A7EDCEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB8AC5DA-AC70-45D7-BFA2-442E2A7EDCEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB8AC5DA-AC70-45D7-BFA2-442E2A7EDCEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB8AC5DA-AC70-45D7-BFA2-442E2A7EDCEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D223CF3-6ED6-4FB3-B0F0-DA5524EFB97F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D223CF3-6ED6-4FB3-B0F0-DA5524EFB97F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D223CF3-6ED6-4FB3-B0F0-DA5524EFB97F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D223CF3-6ED6-4FB3-B0F0-DA5524EFB97F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE5B492C-FA3E-4FD7-A82F-93E7D8C1C57C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE5B492C-FA3E-4FD7-A82F-93E7D8C1C57C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE5B492C-FA3E-4FD7-A82F-93E7D8C1C57C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE5B492C-FA3E-4FD7-A82F-93E7D8C1C57C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1C0D719-230D-4544-8361-D90482572190}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1C0D719-230D-4544-8361-D90482572190}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1C0D719-230D-4544-8361-D90482572190}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1C0D719-230D-4544-8361-D90482572190}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CD809526-21DC-4386-94B6-CEAB9C2A512C} = {2FB89A2E-18CC-4E2F-8082-612FA8BD90EC}
+		{C08D3392-41DB-4076-A341-82817DFA7A0F} = {2FB89A2E-18CC-4E2F-8082-612FA8BD90EC}
+		{EB8AC5DA-AC70-45D7-BFA2-442E2A7EDCEB} = {B80AAA27-6C3C-414D-9540-6D99491533BE}
+		{8D223CF3-6ED6-4FB3-B0F0-DA5524EFB97F} = {CD809526-21DC-4386-94B6-CEAB9C2A512C}
+		{AE5B492C-FA3E-4FD7-A82F-93E7D8C1C57C} = {EE7C3A47-41FE-472E-9908-9388AD1BE8D0}
+		{F1C0D719-230D-4544-8361-D90482572190} = {C08D3392-41DB-4076-A341-82817DFA7A0F}
+	EndGlobalSection
+EndGlobal
