@@ -1,0 +1,12 @@
+D:\dev\ASP-NET\ProjetoPOS\ProjetoPOS-backend\src\ProjetoPos.Infra.CrossCutting.NotificationPattern.csproj\bin\Debug\net8.0\ProjetoPos.Infra.CrossCutting.NotificationPattern.deps.json
+D:\dev\ASP-NET\ProjetoPOS\ProjetoPOS-backend\src\ProjetoPos.Infra.CrossCutting.NotificationPattern.csproj\bin\Debug\net8.0\ProjetoPos.Infra.CrossCutting.NotificationPattern.dll
+D:\dev\ASP-NET\ProjetoPOS\ProjetoPOS-backend\src\ProjetoPos.Infra.CrossCutting.NotificationPattern.csproj\bin\Debug\net8.0\ProjetoPos.Infra.CrossCutting.NotificationPattern.pdb
+D:\dev\ASP-NET\ProjetoPOS\ProjetoPOS-backend\src\ProjetoPos.Infra.CrossCutting.NotificationPattern.csproj\obj\Debug\net8.0\ProjetoPos.Infra.CrossCutting.NotificationPattern.csproj.AssemblyReference.cache
+D:\dev\ASP-NET\ProjetoPOS\ProjetoPOS-backend\src\ProjetoPos.Infra.CrossCutting.NotificationPattern.csproj\obj\Debug\net8.0\ProjetoPos.Infra.CrossCutting.NotificationPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\ASP-NET\ProjetoPOS\ProjetoPOS-backend\src\ProjetoPos.Infra.CrossCutting.NotificationPattern.csproj\obj\Debug\net8.0\ProjetoPos.Infra.CrossCutting.NotificationPattern.AssemblyInfoInputs.cache
+D:\dev\ASP-NET\ProjetoPOS\ProjetoPOS-backend\src\ProjetoPos.Infra.CrossCutting.NotificationPattern.csproj\obj\Debug\net8.0\ProjetoPos.Infra.CrossCutting.NotificationPattern.AssemblyInfo.cs
+D:\dev\ASP-NET\ProjetoPOS\ProjetoPOS-backend\src\ProjetoPos.Infra.CrossCutting.NotificationPattern.csproj\obj\Debug\net8.0\ProjetoPos.Infra.CrossCutting.NotificationPattern.csproj.CoreCompileInputs.cache
+D:\dev\ASP-NET\ProjetoPOS\ProjetoPOS-backend\src\ProjetoPos.Infra.CrossCutting.NotificationPattern.csproj\obj\Debug\net8.0\ProjetoPos.Infra.CrossCutting.NotificationPattern.dll
+D:\dev\ASP-NET\ProjetoPOS\ProjetoPOS-backend\src\ProjetoPos.Infra.CrossCutting.NotificationPattern.csproj\obj\Debug\net8.0\refint\ProjetoPos.Infra.CrossCutting.NotificationPattern.dll
+D:\dev\ASP-NET\ProjetoPOS\ProjetoPOS-backend\src\ProjetoPos.Infra.CrossCutting.NotificationPattern.csproj\obj\Debug\net8.0\ProjetoPos.Infra.CrossCutting.NotificationPattern.pdb
+D:\dev\ASP-NET\ProjetoPOS\ProjetoPOS-backend\src\ProjetoPos.Infra.CrossCutting.NotificationPattern.csproj\obj\Debug\net8.0\ref\ProjetoPos.Infra.CrossCutting.NotificationPattern.dll

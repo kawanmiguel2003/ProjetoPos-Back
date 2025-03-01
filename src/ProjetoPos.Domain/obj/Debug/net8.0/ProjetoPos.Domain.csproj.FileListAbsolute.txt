@@ -1,0 +1,17 @@
+D:\dev\ASP-NET\ProjetoPOS\ProjetoPOS-backend\src\ProjetoPos.Domain\bin\Debug\net8.0\ProjetoPos.Domain.deps.json
+D:\dev\ASP-NET\ProjetoPOS\ProjetoPOS-backend\src\ProjetoPos.Domain\bin\Debug\net8.0\ProjetoPos.Domain.runtimeconfig.json
+D:\dev\ASP-NET\ProjetoPOS\ProjetoPOS-backend\src\ProjetoPos.Domain\bin\Debug\net8.0\ProjetoPos.Domain.dll
+D:\dev\ASP-NET\ProjetoPOS\ProjetoPOS-backend\src\ProjetoPos.Domain\bin\Debug\net8.0\ProjetoPos.Domain.pdb
+D:\dev\ASP-NET\ProjetoPOS\ProjetoPOS-backend\src\ProjetoPos.Domain\bin\Debug\net8.0\ProjetoPos.Infra.CrossCutting.NotificationPattern.dll
+D:\dev\ASP-NET\ProjetoPOS\ProjetoPOS-backend\src\ProjetoPos.Domain\bin\Debug\net8.0\ProjetoPos.Infra.CrossCutting.NotificationPattern.pdb
+D:\dev\ASP-NET\ProjetoPOS\ProjetoPOS-backend\src\ProjetoPos.Domain\obj\Debug\net8.0\ProjetoPos.Domain.csproj.AssemblyReference.cache
+D:\dev\ASP-NET\ProjetoPOS\ProjetoPOS-backend\src\ProjetoPos.Domain\obj\Debug\net8.0\ProjetoPos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\ASP-NET\ProjetoPOS\ProjetoPOS-backend\src\ProjetoPos.Domain\obj\Debug\net8.0\ProjetoPos.Domain.AssemblyInfoInputs.cache
+D:\dev\ASP-NET\ProjetoPOS\ProjetoPOS-backend\src\ProjetoPos.Domain\obj\Debug\net8.0\ProjetoPos.Domain.AssemblyInfo.cs
+D:\dev\ASP-NET\ProjetoPOS\ProjetoPOS-backend\src\ProjetoPos.Domain\obj\Debug\net8.0\ProjetoPos.Domain.csproj.CoreCompileInputs.cache
+D:\dev\ASP-NET\ProjetoPOS\ProjetoPOS-backend\src\ProjetoPos.Domain\obj\Debug\net8.0\ProjetoP.F6A826FD.Up2Date
+D:\dev\ASP-NET\ProjetoPOS\ProjetoPOS-backend\src\ProjetoPos.Domain\obj\Debug\net8.0\ProjetoPos.Domain.dll
+D:\dev\ASP-NET\ProjetoPOS\ProjetoPOS-backend\src\ProjetoPos.Domain\obj\Debug\net8.0\refint\ProjetoPos.Domain.dll
+D:\dev\ASP-NET\ProjetoPOS\ProjetoPOS-backend\src\ProjetoPos.Domain\obj\Debug\net8.0\ProjetoPos.Domain.pdb
+D:\dev\ASP-NET\ProjetoPOS\ProjetoPOS-backend\src\ProjetoPos.Domain\obj\Debug\net8.0\ProjetoPos.Domain.genruntimeconfig.cache
+D:\dev\ASP-NET\ProjetoPOS\ProjetoPOS-backend\src\ProjetoPos.Domain\obj\Debug\net8.0\ref\ProjetoPos.Domain.dll
